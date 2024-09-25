@@ -28,7 +28,36 @@ My name is Chanya Chumdee [ Yaya ], I'm from Thailand. I'm interested in web des
 - E-mail : ya.chumdee@gmail.com
 
 ## Juliana Gambuzza TM#2
+*My name is Juliana Gambuzza
+I'm from Colombia* 
 
+![Colombian Flag](images/Colombia.jpeg)
+### I love sports, I play:
+- Tennis 
+- Volleybal
+- Under Water Hockey 
+    - I know it is a weird sport that no one have heard about.
+    - [Video of what is under water hockey](https://www.youtube.com/watch?v=SAukrpTEvZA) 
+
+ ### My hobbies are 
+1. cook, I love to prepare Colombian dishes.
+2. Travel to new cities, towns, contries.
+3. Watch movies and shows.
+4. Play boardgames with my family and friends.
+
+### My skills 
+- Creativity 
+- Problem solving 
+- Adaptability 
+- Empathy 
+- Supportive 
+
+### What I like
+- Create and design things 
+- Read 
+- Watch movies 
+- Music
+- Quality time with people I love 
 
 ## Contributing
 1. Fork it!
